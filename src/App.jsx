@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <main>
-      titi ko malaki
+      wassap
     </main>
   );
 }
